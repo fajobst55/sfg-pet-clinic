@@ -12,6 +12,9 @@
 
     <packaging>pom</packaging>
 
+    <name>sfp-pet-clinic</name>
+    <description>SFG Pet Clinic Project</description>
+
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
@@ -19,9 +22,6 @@
         <relativePath /> <!-- lookup parent from repository -->
     </parent>
 
-
-    <name>sfp-pet-clinic</name>
-    <description>SFG Pet Clinic Project</description>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
